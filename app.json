@@ -1,0 +1,17 @@
+{
+  "expo": {
+    "name": "Nail Customer",
+    "slug": "nail-customer-app",
+    "version": "1.0.0",
+    "scheme": "nail-customer",
+    "ios": {
+      "bundleIdentifier": "com.nicenailsspa.customer"
+    },
+    "android": {
+      "package": "com.nicenailsspa.customer"
+    },
+    "updates": {
+      "enabled": false
+    }
+  }
+}
